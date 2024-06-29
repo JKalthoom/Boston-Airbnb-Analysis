@@ -9,7 +9,7 @@ The primary motivation behind this project is to dive into the Boston Airbnb dat
 <br>
 1. How do various property attributes affect the listing price?
 2. What is the average price of listings in each neighborhood?
-3. ..
+3. What is the average number of reviews per month for listings in each room type?
 
 Through this analysis, I am hoping to provide actionable insights that can help hosts enhance their listings and improve the overall guest experience. Also, guests can use these findings to make more informed choices when selecting accommodations that best fit their needs and budget.
 <br>
