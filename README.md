@@ -8,7 +8,7 @@ As the sharing economy grows, platforms like Airbnb have become integral to the 
 The primary motivation behind this project is to dive into the Boston Airbnb dataset to answer some critical questions that I am interested in and it can inform and enhance decision-making for hosts and guests. I aim to address the following questions:
 <br>
 1. How do various property attributes affect the listing price?
-2. ..
+2. What is the average price of listings in each neighborhood?
 3. ..
 
 Through this analysis, I am hoping to provide actionable insights that can help hosts enhance their listings and improve the overall guest experience. Also, guests can use these findings to make more informed choices when selecting accommodations that best fit their needs and budget.
