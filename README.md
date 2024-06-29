@@ -46,7 +46,7 @@ Three notebooks are available on this page. Each notebook is related to one of t
 The three notebooks should work separately, each of them will load the data, prepare and gather necessary columns, analyze and visualize the results, and provide answers
 
 ## Results <a name="results"></a>
-My article that is published (here) contains the code's results.
+My article that is published <a href="https://medium.com/@jkalthoom.ai/which-property-attributes-drive-higher-airbnb-earnings-in-boston-dc5dda5df41a"><strong>here</strong></a> contains the code's results.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 - This project is an open-source project. You are free to use, modify, and distribute the code and data, provided that proper credit is given to the original authors. <br>
