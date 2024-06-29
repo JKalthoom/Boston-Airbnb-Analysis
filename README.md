@@ -19,7 +19,7 @@ The data for this project is sourced from <a href="https://www.kaggle.com/datase
 - [Project Motivation and Introduction](#motivation)
 - [Installation](#installation)
 - [File Descriptions](#files)
-- [How to Interact with your project](#interaction)
+- [How to Interact](#interaction)
 - [Results](#results)
 - [Licensing, Authors, Acknowledgements](#licensing)
 
@@ -42,13 +42,13 @@ The data for this project is sourced from <a href="https://www.kaggle.com/datase
 ## File Descriptions <a name="files"></a>
 Three notebooks are available on this page. Each notebook is related to one of the questions above, it will work through the data about the question shown by the notebook title. There will be comments to help you understand the code.
 
-## How to Interact with your project <a name="interaction"></a>
+## How to Interact <a name="interaction"></a>
 The three notebooks should work separately, each of them will load the data, prepare and gather necessary columns, analyze and visualize the results, and provide answers
 
 ## Results <a name="results"></a>
 My article that is published (here) contains the code's results.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-- This project is an open source project. You are free to use, modify, and distribute the code and data, provided that proper credit is given to the original authors. <br>
+- This project is an open-source project. You are free to use, modify, and distribute the code and data, provided that proper credit is given to the original authors. <br>
 - This project was created by (Jawad Kalthoom), an AI student currently pursuing a data science nanodegree. You can reach out to me on <a href="https://www.linkedin.com/in/jawad-kalthoom/"><strong>LinkedIn</strong></a> or <a href="https://github.com/JKalthoom"><strong>GitHub</strong></a> for any questions or collaborations. <br>
 - Finally, I would like to thank Airbnb and Kaggle for the dataset and for making it accessible, and my instructors from Udacity for their guidance.
