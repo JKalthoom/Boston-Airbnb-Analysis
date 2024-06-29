@@ -35,6 +35,8 @@ The data for this project is sourced from <a href="https://www.kaggle.com/datase
   <a href="https://matplotlib.org/stable/install/index.html"><strong>matplotlib</strong></a>
   <br>
   <a href="https://scikit-learn.org/stable/install"><strong>scikit-learn</strong></a>
+  <br>
+  <a href="https://seaborn.pydata.org/installing.html"><strong>seaborn</strong></a>
 </p>
 
 ## File Descriptions <a name="files"></a>
